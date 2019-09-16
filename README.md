@@ -5,9 +5,10 @@ Supercollider code for an experiment involving pairing eyes from the reading the
 Open the file 0-main.scd in SuperCollider. Follow the instructions there to evaluate the code.
 
 ## Prerequisites
-1. Download SuperCollider (https://supercollider.github.io/)
-2. Download the Eyes from the Reading the Mind in the Eyes Task (http://www.midss.org/content/reading-mind-eyes-test)
-3. Crop out the eyes and save them as PNGs in the Eyes/ folder following the scheme: 0.PNG, 1.PNG ... 36.PNG
+1. Download SuperCollider (https://supercollider.github.io/).
+
+## Testing
+This code was made using SuperCollider 3.8.0 on a computer running MacOSX 10.14. Although not intended for widespread use, it may work on Windows and Linux machines, depending mostly on the cross-platform implementation of certain Supercollider functions especially Image.
 
 ## Authors
 * **R. Michael Winters**, PhD Candidate, Georgia Tech Center for Music Technology

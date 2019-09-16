@@ -2,7 +2,7 @@
 if (~debugging, {
 	~participantID = "MW";
 	~numTrialsPerBlock = 10; // Number of trials between breaks
-	~minListeningTime = 10; // seconds of listening to condition (i.e. Slow, Fast, Silence)
+	~minListeningTime = 3; // seconds of listening to condition (i.e. Slow, Fast, Silence)
 	~minAfterTrialInterval = 1; // time between entering "Feeling View" and next trial
 	~interBlockWaitTime = 1; // seconds before the user can go to the next block (mandatory rest time).
 }, {

@@ -4,5 +4,3 @@ ExpData/*
 # Ignore unnecessary files
 *.DS_Store
 
-# Include the Eyes folder, but not the eyes as they could be used for something not desired by the researchers. Interested people can find these from autismresearchcentere.com (Date Accessed: 9/14/2019)
-Eyes/*
