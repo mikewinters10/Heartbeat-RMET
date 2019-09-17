@@ -1,5 +1,5 @@
 # Heartbeat-RMET
-Supercollider code for an experiment involving pairing eyes from the reading the mind in the eyes task with the sound of heartbeats.
+This repository hosts Supercollider code for an experiment pairing eyes from the reading the mind in the eyes task with the sound of slow or fast heartbeats. There are four conditions: visual-only, audio-only, audio-visual fast and audio-visual slow. There are 36 trials per condition. The audio-only condition contains both fast and slow heartbeats. 
 
 ## Getting Started
 Open the file 0-main.scd in SuperCollider. Follow the instructions there to evaluate the code.
