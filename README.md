@@ -15,7 +15,7 @@ This code was made using SuperCollider 3.8.0 on a computer running MacOSX 10.14.
 
 ## Credits
 
-The eyes stimuli were extracted from the Reading the Mind in the Eyes test, which was made by Simon Baron‐Cohen, Therese Jolliffe, Catherine Mortimore and Mary Robertson, and is hosted by the Measurement Instrument Database for the Social Sciences:
+The eyes stimuli were extracted from the Reading the Mind in the Eyes test, which was made by **Simon Baron‐Cohen, Therese Jolliffe, Catherine Mortimore and Mary Robertson**, and is hosted by the Measurement Instrument Database for the Social Sciences:
 
 * http://www.midss.org/content/reading-mind-eyes-test 
 
