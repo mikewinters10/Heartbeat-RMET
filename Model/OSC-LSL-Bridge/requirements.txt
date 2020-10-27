@@ -18,7 +18,7 @@ cffi==1.11.5
 configobj==5.0.6
 configparser==3.5.0
 coverage==4.5.2
-cryptography==2.5
+cryptography==3.2
 cycler==0.10.0
 decorator==4.0.11
 docutils==0.14
