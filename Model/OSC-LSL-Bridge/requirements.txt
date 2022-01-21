@@ -43,7 +43,7 @@ imagesize==1.1.0
 ioLabs==3.2
 ipaddress==1.0.22
 ipykernel==4.5.2
-ipython==5.2.2
+ipython==7.16.3
 ipython-genutils==0.1.0
 jdcal==1.4
 Jinja2==2.9.5
