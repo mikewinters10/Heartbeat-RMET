@@ -36,7 +36,7 @@ gevent==1.4.0
 gitdb2==2.0.5
 GitPython==2.1.11
 greenlet==0.4.15
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.8
 imageio==2.4.1
 imagesize==1.1.0
