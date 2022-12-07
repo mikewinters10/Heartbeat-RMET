@@ -13,7 +13,7 @@ backports.shutil-get-terminal-size==1.0.0
 bdist-mpkg==0.5.0
 bleach==1.5.0
 bonjour-py==0.3
-certifi==2017.1.23
+certifi==2022.12.7
 cffi==1.11.5
 configobj==5.0.6
 configparser==3.5.0
